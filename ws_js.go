@@ -1,4 +1,4 @@
-package websocket // import "nhooyr.io/websocket"
+package websocket
 
 import (
 	"bytes"

@@ -29,4 +29,4 @@
 //  - Conn.Ping is no-op
 //  - HTTPClient, HTTPHeader and CompressionMode in DialOptions are no-op
 //  - *http.Response from Dial is &http.Response{} with a 101 status code on success
-package websocket // import "nhooyr.io/websocket"
+package websocket
