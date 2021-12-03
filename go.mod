@@ -9,5 +9,4 @@ require (
 	github.com/google/go-cmp v0.5.6
 	github.com/gorilla/websocket v1.4.2
 	github.com/klauspost/compress v1.13.6
-	nhooyr.io/websocket v1.8.7
 )
