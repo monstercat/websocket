@@ -11,7 +11,7 @@ import (
 	"strings"
 	"testing"
 
-	"nhooyr.io/websocket/internal/test/assert"
+	"github.com/monstercat/websocket/internal/test/assert"
 )
 
 func TestAccept(t *testing.T) {
